@@ -1,3 +1,6 @@
+https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores
+
+
 <!DOCTYPE html>
 
 
@@ -13,7 +16,7 @@
 	<!-- End Google Tag Manager -->
 
 	<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
-	<title>BCB - Calculadora do cidad„o</title>
+	<title>BCB - Calculadora do cidad√£o</title>
 	<link rel="stylesheet" href="/css/Sistema.css">
 	<link rel="stylesheet" href="../css/impressao.css">
 	
@@ -43,7 +46,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		  </a>
 		</td>
 		<td style="white-space: nowrap" class="cab" width="40%">
-		  <div><b>Calculadora do cidad„o</b></div>
+		  <div><b>Calculadora do cidad√£o</b></div>
 		</td>		
 		<td align="right" class="cab" width="50%">
              <div  style="margin-right:13px">
@@ -68,17 +71,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script type="text/javascript">
 <!--
   
-    oCMenu.makeMenu('calculadoraCidadao','','Calculadora do cidad„o','','','20%','','','','','','','',0,'','','','','','','');
-        oCMenu.makeMenu('aplicacaoDepositosRegulares','calculadoraCidadao','AplicaÁ„o com depÛsitos regulares','/CALCIDADAO/publico/exibirFormAplicacaoDepositosRegulares.do?method=exibirFormAplicacaoDepositosRegulares','','20%','','','','','','','',0,'','','','','','','');
-        oCMenu.makeMenu('financiamentoPrestacoesFixas','calculadoraCidadao','Financiamento com prestaÁıes fixas','/CALCIDADAO/publico/exibirFormFinanciamentoPrestacoesFixas.do?method=exibirFormFinanciamentoPrestacoesFixas','','20%','','','','','','','',0,'','','','','','','');
+    oCMenu.makeMenu('calculadoraCidadao','','Calculadora do cidad√£o','','','20%','','','','','','','',0,'','','','','','','');
+        oCMenu.makeMenu('aplicacaoDepositosRegulares','calculadoraCidadao','Aplica√ß√£o com dep√≥sitos regulares','/CALCIDADAO/publico/exibirFormAplicacaoDepositosRegulares.do?method=exibirFormAplicacaoDepositosRegulares','','20%','','','','','','','',0,'','','','','','','');
+        oCMenu.makeMenu('financiamentoPrestacoesFixas','calculadoraCidadao','Financiamento com presta√ß√µes fixas','/CALCIDADAO/publico/exibirFormFinanciamentoPrestacoesFixas.do?method=exibirFormFinanciamentoPrestacoesFixas','','20%','','','','','','','',0,'','','','','','','');
         oCMenu.makeMenu('valorFuturoCapital','calculadoraCidadao','Valor futuro de um capital','/CALCIDADAO/publico/exibirFormCalculoValorFuturoCapital.do?method=exibirFormCalculoValorFuturoCapital','','20%','','','','','','','',0,'','','','','','','');
-        oCMenu.makeMenu('correcaoValores','calculadoraCidadao','CorreÁ„o de valores','/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores','','20%','','','','','','','',0,'','','','','','','');
+        oCMenu.makeMenu('correcaoValores','calculadoraCidadao','Corre√ß√£o de valores','/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores','','20%','','','','','','','',0,'','','','','','','');
         
   <!--menu:displayMenu name="ajudeMelhorarCalCidadao"/ -->
   
     oCMenu.makeMenu('manterAjuda','','Ajuda','/CALCIDADAO/','','','','','','','','','',0,'','','','','','','');
         oCMenu.makeMenu('ajudaGeral','manterAjuda','Geral','','','20%','','','','','','','',0,'top.newWin=window.open("/CALCIDADAO/jsp/ajudaGeralCalCidadao.jsp", "Ajuda", "dependent=yes,width=410,height=430,screenX=200,screenY=300,titlebar=yes,scrollbars=yes,resizable=yes")','','','','','','');
-        oCMenu.makeMenu('ajudaCalCidadao','manterAjuda','Sobre a calculadora do cidad„o','','','20%','','','','','','','',0,'top.newWin=window.open("/CALCIDADAO/jsp/ajudaCalCidadao.jsp", "Ajuda", "dependent=yes,width=410,height=430,screenX=200,screenY=300,titlebar=yes,scrollbars=yes,resizable=yes")','','','','','','');
+        oCMenu.makeMenu('ajudaCalCidadao','manterAjuda','Sobre a calculadora do cidad√£o','','','20%','','','','','','','',0,'top.newWin=window.open("/CALCIDADAO/jsp/ajudaCalCidadao.jsp", "Ajuda", "dependent=yes,width=410,height=430,screenX=200,screenY=300,titlebar=yes,scrollbars=yes,resizable=yes")','','','','','','');
           
     oCMenu.construct();
 //-->
@@ -125,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <table border="0" style="margin: auto; text-align: left; width: 100%"
 	cellpadding="0" cellspacing="0">
 	<tr>
-		<td class="breadCrumb"><span style='font-size: 80%;'><span class='trilhaNav'><a href="/CALCIDADAO">In&iacute;cio</a>&nbsp;<img src="/img/seta.gif" alt="Subitem de navega&ccedil;&atilde;o" title="Subitem de navega&ccedil;&atilde;o" />&nbsp;Calculadora do cidad„o&nbsp;<img src="/img/seta.gif" alt="Subitem de navega&ccedil;&atilde;o" title="Subitem de navega&ccedil;&atilde;o" />&nbsp; CorreÁ„o de valores</span>
+		<td class="breadCrumb"><span style='font-size: 80%;'><span class='trilhaNav'><a href="/CALCIDADAO">In&iacute;cio</a>&nbsp;<img src="/img/seta.gif" alt="Subitem de navega&ccedil;&atilde;o" title="Subitem de navega&ccedil;&atilde;o" />&nbsp;Calculadora do cidad√£o&nbsp;<img src="/img/seta.gif" alt="Subitem de navega&ccedil;&atilde;o" title="Subitem de navega&ccedil;&atilde;o" />&nbsp; Corre√ß√£o de valores</span>
 </span></td>
 		<td style="text-align: right; vertical-align: top;" class="codTela">[CALFW0301]</td>
 	</tr>
@@ -153,7 +156,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						
 							<td class="mtaba"><a
 								href="/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores&aba=1">
-							Õndices de pre&ccedil;os </a></td>
+							√çndices de pre&ccedil;os </a></td>
 						
 						
 					
@@ -177,7 +180,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						
 							<td class="mtabi"><a
 								href="/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores&aba=3">
-							PoupanÁa </a></td>
+							Poupan√ßa </a></td>
 						
 					
 
@@ -254,7 +257,7 @@ submeter = function() {
 	var form = document.getElementById('corrigirPorIndiceForm');
 	var campoSelect = form.selIndice;
 	var valorSelecionado = campoSelect.options[campoSelect.selectedIndex].value;
-	var mensagem = 'O IPCA-E tem periodicidade mensal, mas sua divulgaÁ„o È trimestral, ocorrendo sempre ao fim de cada trimestre civil (marÁo, junho, setembro e dezembro). O IPCA-E tem abrangÍncia geogr·fica e populaÁ„o-objetivo iguais ao IPCA, mas perÌodo de coleta diferente (aproximadamente do dia 16 do mÍs anterior ao dia 15 do mÍs de referÍncia).';
+	var mensagem = 'O IPCA-E tem periodicidade mensal, mas sua divulga√ß√£o √© trimestral, ocorrendo sempre ao fim de cada trimestre civil (mar√ßo, junho, setembro e dezembro). O IPCA-E tem abrang√™ncia geogr√°fica e popula√ß√£o-objetivo iguais ao IPCA, mas per√≠odo de coleta diferente (aproximadamente do dia 16 do m√™s anterior ao dia 15 do m√™s de refer√™ncia).';
 	if (valorSelecionado == '10764IPC-E') {
 		alert(mensagem);
 	}
@@ -280,16 +283,16 @@ onload=init;
 		cellpadding="3" class="tabela"
 		title="Corre&ccedil;&atilde;o de valores">
 		<tr style="text-align: right;">
-			<td colspan="2" class="obs">Os campos com * s„o de preenchimento obrigatÛrio</td>
+			<td colspan="2" class="obs">Os campos com * s√£o de preenchimento obrigat√≥rio</td>
 		</tr>
 		<tr class="fundoPadraoAEscuro2 txN">
 			<td colspan="2">Corre&ccedil;&atilde;o de valor por
 			&iacute;ndices de pre&ccedil;os</td>
 		</tr>
 		<tr class="fundoPadraoAClaro3">
-			<td style="text-align: right;">Selecione o Ìndice para a
-			correÁ„o</td>
-			<td><select name="selIndice" id="selIndice" title="Selecione o Ìndice para a correÁ„o"><option value="28655IGP-M">IGP-M (FGV) - a partir de 06/1989</option>
+			<td style="text-align: right;">Selecione o √≠ndice para a
+			corre√ß√£o</td>
+			<td><select name="selIndice" id="selIndice" title="Selecione o √≠ndice para a corre√ß√£o"><option value="28655IGP-M">IGP-M (FGV) - a partir de 06/1989</option>
 				<option value="00190IGP-DI">IGP-DI (FGV) - a partir de 02/1944</option>
 				<option value="00188INPC">INPC (IBGE) - a partir de 04/1979</option>
 				<option value="00433IPCA">IPCA (IBGE) - a partir de 01/1980</option>
@@ -327,7 +330,7 @@ onload=init;
 		<tr class="tela">
 			<td class="obs" colspan="2"><span style="text-align: right;">
 			<a
-				href="metodologiaCorrigirIndice.do?method=metodologiaCorrigirIndice" title="Metodologia da correÁ„o pelos &iacute;ndices">
+				href="metodologiaCorrigirIndice.do?method=metodologiaCorrigirIndice" title="Metodologia da corre√ß√£o pelos &iacute;ndices">
 			Metodologia </a> </span></td>
 			<td>&nbsp;</td>
 		</tr>
@@ -352,7 +355,7 @@ onload=init;
 </form>
 <div style="text-align: center; display: none" id="exibe_metodologia">
 <span class="titulo3" style="text-align: center;">Metodologia da
-CorreÁ„o pelos Õndices</span> <br>
+Corre√ß√£o pelos √çndices</span> <br>
 <table width="650">
 	<tr>
 		<td>
@@ -439,4 +442,5 @@ CorreÁ„o pelos Õndices</span> <br>
 </body>
 
 </body>
+
 </html>
