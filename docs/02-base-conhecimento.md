@@ -21,7 +21,7 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Foi incluída o acesso a Calculadora do Cidadão]
+[Foi incluído o acesso a Calculadora do Cidadão]
 
 ---
 
