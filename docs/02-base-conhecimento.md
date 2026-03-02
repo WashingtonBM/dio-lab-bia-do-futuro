@@ -37,6 +37,16 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 [Os dados vão no system prompt e são consultados dinamicamente]
 
+Dados do cliente e Perfil
+
+Calculadora do Cidadão
+
+Transações do Cliente
+
+Histórico de Atendimento do Cliente
+
+Produtos Financeiros
+
 ---
 
 ## Exemplo de Contexto Montado
