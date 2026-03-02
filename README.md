@@ -39,6 +39,7 @@ Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alim
 | `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
 | `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
 | `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
+| `Calculadora do Cidadão`	| https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores|
 
 Você pode adaptar ou expandir esses dados conforme seu caso de uso.
 
