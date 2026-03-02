@@ -5,34 +5,35 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+[Cáculos de Financiamento]
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+[Utilizando a calculadora do Cidadão: https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores]
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+[Clientes Adultos]
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+[Sol]
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+[consultivo e direto]
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+[Formal, técnico, acessível
+]
 
 ### Exemplos de Linguagem
 - Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
@@ -59,9 +60,9 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [ex: Chatbot em Streamlit] |
-| LLM | [ex: GPT-4 via API] |
-| Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
+| Interface | Chatbot em Streamlit (https://streamlit.io/) |
+| LLM | Olama (Local) |
+| Base de Conhecimento | [ex: JSON/CSV com dados do cliente https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores]
 | Validação | [ex: Checagem de alucinações] |
 
 ---
@@ -78,4 +79,4 @@ flowchart TD
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+[Use somente os dados fornecidos no contesto, não recomende investimentos, bancos ou financeiras; adimite quando não souber algo; foque em calcular financiamentos,não acesse dados bancários sensíveis utilizando a calculadora do cidadão]
