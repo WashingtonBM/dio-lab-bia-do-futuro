@@ -11,7 +11,8 @@ Os assistentes virtuais no setor financeiro estão evoluindo de simples chatbots
 
 > [!TIP]
 > Na pasta [`examples/`](./examples/) você encontra referências de implementação para cada etapa deste desafio.
-
+ 
+- Projeto final conccluído: https://washington-consultor-financiero.lovable.app
 ---
 
 ## O Que Você Deve Entregar
